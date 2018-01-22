@@ -1,0 +1,14 @@
+Answer Key		d	b	c	a	c	b	d	c	a	b
+Adam Szelag		d	b	a	c	c	d	b	c	d	b
+David Marks		d	c	b	a	c	b	d	c	a	d
+Raymond Miller	c	b	c	a	c	a	d	d	c	b
+Mike Delauter	d	b	b	d	c	b	a	c	a	d
+Justin Choponis	d	b	c	a	c	b	d	c	a	b
+Jason Martin	d	b	c	a	c	c	d	c	a	b
+Jane Johnson	d	c	c	a	c	b	a	c	b	b
+Tyler Kyle		a	b	c	d	c	a	b	d	a	c
+Jessica Weber	b	b	a	a	c	b	a	c	a	b
+Roger Benson	d	a	c	b	b	a	c	d	a	d
+Amy Stevens		c	b	c	a	c	b	c	a	a	b
+Eric Goodman	a	b	c	d	c	a	d	c	a	d
+Matt Stevens	d	b	c	d	c	a	d	c	a	b
