@@ -1,11 +1,14 @@
 package objectorientedprogramming;
 
+import bmi.BMI;
+
 public class Person {
 	
 	// Instance variables
 	private String fname, lname;
 	private int age;
 	double weight, height;
+	BMI bmi;
 	
 	Person(String fn, String ln, int a) {
 		fname = fn;
@@ -27,5 +30,11 @@ public class Person {
 	
 	public void birthDay() {
 		age++;
+	}
+	
+	public String getHealthStatus() {
+		if (bmi == null)
+			bmi = new BMI(weight, height);
+		return bmi.getStatus();
 	}
 }
