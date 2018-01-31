@@ -1,24 +1,46 @@
 package liststructure;
 
+import java.io.PrintStream;
 import java.util.ArrayList;
 
+import television.TV;
+
 public class TestArrayList {
+	
+	final static PrintStream p = System.out;
 
 	public static void main(String[] args) {
-		ArrayList<Integer> list = new ArrayList<Integer>();
-		list.add(7);
-		list.add(52);
-		list.add(61);
-		list.add(14);
-		list.add(23);
 		
-		System.out.printf("List has %d elements.\n", list.size());
+		int[] intArray = {1, 2, 3, 4, 5};
+		ArrayList<Integer> integerList = new ArrayList<Integer>();
 		
-		for (int i = 0; i < list.size(); i++ ) {
-			System.out.printf("%4d\n", list.get(i));
-		}
-		
-		System.out.println(list);
+		 for (int x : intArray) {
+			 integerList.add(x);
+		 }
+
+		 p.println(integerList);
+		 
+		 integerList.add(6);
+		 p.println(integerList);
+		 
+		 integerList.remove(3); // removes item at index 3
+		 p.println(integerList);
+		 
+		 for (int i = 0; i < integerList.size(); i+= 2) {
+			 p.printf("list[%d] = %d\n", i, integerList.get(i));
+		 }
+		 
+		 ///////////////////////////////////////////////////////
+		 
+		 ArrayList<TV> TVList = new ArrayList<TV>();
+		 
+		 TVList.add(new TV(3));
+		 TVList.add(new TV(5));
+		 
+		 for (TV t : TVList) {
+			 t.powerOn();
+			 p.println(t.getChannel());
+		 }
 	}
 
 }
