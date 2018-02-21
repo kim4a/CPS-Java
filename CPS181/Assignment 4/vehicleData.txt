@@ -1,0 +1,36 @@
+car	55	3305	Buick	LaCrosse	25	sedan	mid-size
+car	40	3086	Mitsbishi	Lancer Evolution	27	sedan	mid-size
+car	0	6860	Lexus	470	17	SUV	luxury
+car	40	5798	Acura	MDX	18	SUV	luxury
+car	0	6459	Buick	Enclave	18	SUV	mid-size
+car	0	3600	Buick	Regal	23	sedan	mid-size
+car	30	2805	Saturn	ION	27	sedan	small
+car	20	2467	Hyundai	Accent	31	coupe	compact
+car	60	3161	Hyundai	Sonata	28	sedan	mid-size
+car	104	3208	Chevy	Corvette	19	sports	luxury
+car	45	2568	Chevy	Impala	30	sedan	mid-size
+car	0	7100	Cadillac	Escalade	14	SUV	luxury
+car	50	2588	Honda	Civic	29	coupe	small
+car	20	3269	Honda	Accord	25	sedan	full
+car	0	6019	Honda	Odyssey	18	van	large
+car	80	2690	Honda	CRZ	37	coupe	compact
+car	0	3490	Toyota	Avalon	23	sedan	large
+car	0	3307	Toyota	Camery	26	sedan	full
+car	0	5690	Toyota	Sienna	23	van	large
+car	45	3042	Toyota	Prius	50	sedan	hybrid
+car	33	3741	Ford	Taurus	28	sedan	full
+car	30	6010	Ford	Exporer	16	SUV	mid-size
+car	25	3720	Dodge	Challenger	20	coupe	mid-size
+car	75	3441	Dodge	Viper	16	sports	luxury
+car	0	4180	Cadillac	XTS	21	Sedan	luxury
+truck	0	6450	Ford	F150	19	65	4
+truck	0	6010	Dodge	Dakota	17	47.8	4
+truck	0	6025	Dodge	Ram1500	16	59.2	4
+truck	0	14930	Kaiser	M35A2C	6	154	10
+airplane	640	400000	Boeing	747-400	468
+airplane	0	162040	Airbus	320	179
+airplane	300	43200	Cadanair	CL-600	70
+airplane	450	20725	Yakovlev	Yak-40	32
+airplane	330	79345	Fairchild	Doenier-728	80
+airplane	657	280000	Boeing	737	268
+airplane	0	283000	Airbus	350	325
