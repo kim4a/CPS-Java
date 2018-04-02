@@ -1,8 +1,5 @@
 package linkedList;
 
-import java.io.File;
-import java.util.Scanner;
-
 public class LinkedList {
 	
 	Node head, tail, temp;
