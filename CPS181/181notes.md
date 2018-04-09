@@ -33,3 +33,14 @@ Hello World! 1 + 0.2 = 1.2
 | :------------- | :------------- |
 | \t             | Tab            |
 | \n             | New line       |
+
+### Recursive GCD Function
+
+```java
+public static int gcd(int m, int n) {
+	if (n == 0)
+		return m;
+	else
+		return gcd(n, m % n)
+}
+```
