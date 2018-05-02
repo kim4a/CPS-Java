@@ -1,0 +1,171 @@
+Armenia	3010	-0.3
+Austria	8327	0.4
+Saudi Arabia	24175	2.4
+Russia	143221	-0.5
+Czech Republic	10189	0
+Sierra Leone	5743	2.8
+Germany	82641	0
+Uganda	29899	3.2
+Australia	20530	1.1
+Guyana	739	-0.1
+Greece	11123	0.2
+Kazakhstan	15314	0.7
+Spain	43887	1.1
+Madagascar	19159	2.7
+Fiji	833	0.6
+Egypt	74166	1.8
+Slovenia	2001	0.1
+Liberia	3579	3.9
+Cyprus	846	1.1
+Estonia	1340	-0.3
+France	61330	0.6
+Azerbaijan	8406	0.6
+Myanmar	48379	0.9
+Sweden	9078	0.4
+Colombia	45558	1.4
+Kuwait	2779	2.9
+Malta	405	0.5
+Haiti	9446	1.6
+Georgia	4433	-0.9
+Swaziland	1134	0.8
+Sao Tome and Principe	155	1.6
+Kyrgyzstan	5259	1.1
+Barbados	293	0.3
+Bhutan	649	1.8
+Albania	3172	0.6
+Bahrain	739	1.9
+Kenya	36553	2.6
+Finland	5261	0.3
+Tanzania	39459	2.5
+Ukraine	46557	-0.8
+Switzerland	7455	0.4
+Cote d'Ivoire	18914	1.8
+Brunei Darussalam	382	2.1
+Iceland	298	0.9
+Italy	58779	0.2
+Solomon Islands	484	2.4
+Dominican Republic	9615	1.5
+Gabon	1311	1.5
+Honduras	6969	2
+Argentina	39134	1
+Costa Rica	4399	1.6
+Guatemala	13029	2.5
+Turkey	73922	1.3
+Namibia	2047	1.3
+China	1328474	0.6
+Belize	282	2.2
+El Salvador	6762	1.4
+Montenegro	601	-1.1
+Norway	4669	0.6
+Yemen	21732	3
+Congo, Rep.	3689	2.2
+Djibouti	819	1.8
+Rwanda	9464	2.5
+Singapore	4382	1.3
+Canada	32577	0.9
+Denmark	5430	0.2
+Burundi	8173	3.9
+Mozambique	20971	2.1
+Nigeria	144720	2.4
+Mauritania	3044	2.7
+Gambia	1663	2.8
+Guinea	9181	2
+Vanuatu	221	2.5
+Jordan	5729	3.3
+Trinidad and Tobago	1328	0.4
+Bangladesh	155991	1.8
+South Africa	48282	0.7
+Cameroon	18175	2.1
+Bosnia and Herzegovina	3926	0.3
+Netherlands	16379	0.3
+India	1151751	1.5
+Indonesia	228864	1.2
+Senegal	12072	2.5
+Benin	8760	3.1
+Luxembourg	461	1
+Comoros	818	2.5
+Peru	27589	1.1
+Equatorial Guinea	496	2.4
+Papua New Guinea	6202	2.2
+Niger	13737	3.5
+Samoa	185	0.8
+Bulgaria	7693	-0.7
+Brazil	189323	1.3
+Micronesia (Federated States of)	111	0.5
+Burkina Faso	14359	3
+Suriname	455	0.6
+Lesotho	1995	0.7
+Chile	16465	1
+Lao People's Democratic Republic	5759	1.7
+Iran (Islamic Republic of)	70270	1.2
+Thailand	63444	0.7
+Saint Lucia	163	1.1
+Cambodia	14197	1.7
+Mali	11968	3
+Nepal	27641	2
+Korea, Rep.	48050	0.4
+Algeria	33351	1.5
+Serbia	9851	-0.1
+Chad	10468	3.1
+Mongolia	2605	0.9
+Belgium	10430	0.3
+Grenada	106	0.3
+Eritrea	4692	3.6
+Uzbekistan	26981	1.4
+Zambia	11696	1.9
+Congo, Dem. Rep.	60644	3.2
+Ecuador	13202	1.1
+Japan	127953	0
+Togo	6410	2.7
+Lithuania	3408	-0.5
+Croatia	4556	0.1
+Tonga	100	0.5
+Uruguay	3331	0.2
+Bolivia	9354	1.9
+Tajikistan	6640	1.4
+Vietnam	86206	1.4
+Paraguay	6016	1.9
+Timor-Leste	1114	4.3
+Latvia	2289	-0.6
+Malawi	13571	2.6
+Jamaica	2699	0.6
+Poland	38140	-0.1
+Ireland	4221	1.9
+Morocco	30853	1.2
+Nicaragua	5532	1.3
+Ghana	23008	2.1
+Saint Vincent and the Grenadines	120	0.5
+Portugal	10579	0.5
+Libyan Arab Jamahiriya	6039	2
+Belarus	9742	-0.5
+Venezuela	27191	1.7
+Pakistan	160943	1.8
+Macedonia	2036	0.1
+Slovakia	5388	0
+Romania	21532	-0.4
+Sudan	37707	2.2
+Mauritius	1252	0.8
+Central African Republic	4265	1.7
+Malaysia	26114	1.8
+Botswana	1858	1.2
+United States of America	302841	1
+United Arab Emirates	4248	3.5
+New Zealand	4140	1
+Hungary	10058	-0.3
+Ethiopia	81021	2.5
+Panama	3288	1.7
+Moldova	3833	-1.1
+Maldives	300	1.7
+Turkmenistan	4899	1.4
+Guinea-Bissau	1646	3
+United Kingdom	60512	0.4
+Lebanon	4055	1.1
+Tunisia	10215	1.1
+Syria	19408	2.7
+Sri Lanka	19207	0.5
+Israel	6810	1.7
+Mexico	105342	1
+Oman	2546	1.6
+Philippines	86264	2
+Cape Verde	519	2.3
+Angola	16557	2.8
